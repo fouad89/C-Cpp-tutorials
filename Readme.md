@@ -1,5 +1,5 @@
 # Learning C\C++ from Datacamp & Coursera
-## Week 1:
+## Week 1
 <ol>
     <li>C: gnu compiler installation & setup</li>
     <li>Run hello world</li>
