@@ -5,6 +5,14 @@
 		},
 		{
 			"path": "Week2"
+		},
+		{
+			"path": "Week3"
 		}
-	]
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
 }

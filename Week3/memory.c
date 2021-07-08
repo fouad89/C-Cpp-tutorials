@@ -6,7 +6,7 @@ int main(){
     double gpa = 3.4;
     char grade = 'A';
     // pointer for age variable
-    // use the same data type as the variable. 
+    // use the same data type as the variable
     // conventional names starts with p and Var name
     int *pAge = &age;
     double *pGpa = &gpa;
