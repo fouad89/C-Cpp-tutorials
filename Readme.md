@@ -16,6 +16,44 @@
     <li>Arrays: multiple variables of the same type constructed using []</li>
     <li>If statements: using if, else if, else</li>
     <li>Switch statements: using switch to act like if else if in certain scenarios</li>
+</ol>
 
+
+## Week 3
+<ol>
+    <li>While loops</li>
+    <li>For loops</li>
+    <li>Nested loops and 2D arrays</li>
+    <li>guessing game</li>
+    <li>Memory adresses</li>
+    <li>Pointers and dereferencing</li>
+    <li>writing & reading files</li>
+
+</ol>
+
+## Week 
+<ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+
+</ol>
+
+## Week 
+<ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+
+</ol>
+
+## Week 
+<ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
 
 </ol>
